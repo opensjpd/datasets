@@ -1,6 +1,6 @@
 ### License
 
-These data are public records and are free to use without license or permission. Attribution is appreciated.
+These data are public records and are free to use without license or permission. Attribution is appreciated. For details, see [license](LICENSE.md)
 
 ### Description
 
